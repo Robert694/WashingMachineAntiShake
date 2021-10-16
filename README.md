@@ -1,5 +1,5 @@
 # Washing Machine Anti-Shake
-Washing Machine Anti-Shake Application - Created in August 2021  
+Washing Machine Anti-Shake Application
 
 This is a C# application designed to run on a Raspberry Pi and pause a washing machine when shaking exceeds a set threshold. 
 (Note: Normally you'd just balance the washing machine)
